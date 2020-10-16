@@ -1,5 +1,5 @@
 # fbhack
-#Penginstallan
+# Penginstallan
 apt-get update</br>
 apt-get upgrade</br>
 pkg install python2</br>
